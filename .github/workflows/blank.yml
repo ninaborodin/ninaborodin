@@ -1,3 +1,7 @@
+permissions:
+  contents: write
+  pages: write  # add this
+  
 name: Generate Snake
 
 on:
