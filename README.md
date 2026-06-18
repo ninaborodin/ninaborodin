@@ -1,6 +1,6 @@
 ## hello! i'm nina 🌱
 
-I’m a PhD student at MIT working at the interface of AI, simulation, chemistry, materials science, and biology
+I’m a PhD student at MIT working at the interface of AI, simulations, chemistry, materials science, and biology in Rafa Gómez-Bombarelli's group.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ninaborodin/ninaborodin/output/github-contribution-grid-snake-dark.svg">
